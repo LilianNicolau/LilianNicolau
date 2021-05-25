@@ -15,6 +15,7 @@ So, in September 2020 I started my studies to become a full-stack web developer 
 - 🥐 Currently learning French
 - 🧐 Interests: traveling, cultures, languages, wine, cooking, chatting with friends, being with family, being in nature 
 
-Reach me out
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-nicolau)](https://www.linkedin.com/in/lilian-nicolau) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lianicolau30@gmail.com)](mailto:lianicolau30@gmail.com)
+## Reach me out
+- LinkedIn: https://www.linkedin.com/in/lilian-nicolau/
+- Gmail: lianicolau30@gmail.com
+
